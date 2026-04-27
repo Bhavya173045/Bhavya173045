@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Bhavya! 
 
-<!--
-**Bhavya173045/Bhavya173045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have mostly worked on software integration and creative technologist focused on building highperformance interactive systems.
 
-Here are some ideas to get you started:
+## Projects
+### Vayu Portable Ventilator
+Developed a working model of low cost ventilator implementing precise real-time timing control and hardware interfacing in C/C++ on an Arduino microcontroller platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hand Gesture & ASL Recognition Project 
+Built a real-time gesture recognition engine using OpenCV/MediaPipe, analyzing relative hand node distances to detect 25 ASL letters and common gestures from live video feeds. 
+
+### AQI-prediction
+Built and trained a machine learning model using historical air quality and meteorological data to predict Air Quality Index (AQI) with high accuracy.
+
+
+## Technical 
+* **Languages:** Python (Algorithmic Problem Solving), GDScript, C++, C.
+* **Creative Tools:** Figma (Interactive Prototyping), Framer, TouchDesigner.
+
+## Creative Direction
+Outside of core development, I maintain a strong focus on **Digital Art** and **UI/UX Design**. I believe that the best technical solutions aren't just functional they are aesthetically compelling and human centric.
+
+I'm still creating and learning new idealogies and always keen to explore more.
+
+📫 **Connect with me:** bhavyanayak685@gmail.com
