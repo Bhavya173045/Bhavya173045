@@ -1,6 +1,6 @@
 # Hey, I'm Bhavya! 
 
-I have mostly worked on software integration and creative technologist focused on building highperformance interactive systems.
+I have worked on software integration and creative technologist focused on building highperformance interactive systems and also architecting seamless hardware-software integrations to drive real-time data processing and robust system responsiveness.
 
 ## Projects
 
