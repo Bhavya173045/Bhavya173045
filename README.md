@@ -3,6 +3,10 @@
 I have mostly worked on software integration and creative technologist focused on building highperformance interactive systems.
 
 ## Projects
+
+### Medical_Triage_Pipeline
+The Medical Triage Portal is an NLP-driven Clinical Decision Support System (CDSS) designed to automate risk assessment in hospital intake. By fusing unstructured clinical notes with real-time physiological vitals, this system classifies patient priority to ensure rapid and accurate triage.
+
 ### Vayu Portable Ventilator
 Developed a working model of low cost ventilator implementing precise real-time timing control and hardware interfacing in C/C++ on an Arduino microcontroller platform.
 
@@ -11,6 +15,9 @@ Built a real-time gesture recognition engine using OpenCV/MediaPipe, analyzing r
 
 ### AQI-prediction
 Built and trained a machine learning model using historical air quality and meteorological data to predict Air Quality Index (AQI) with high accuracy.
+
+### Mini_Mario
+Developed a 2D platformer game inspired by Super Mario using the Godot Engine, following game design tutorials for learning and implementation. Implemented player movement mechanics such as running, jumping, and collision detection using GDScript.
 
 
 ## Technical 
