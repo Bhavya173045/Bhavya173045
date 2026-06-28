@@ -21,8 +21,9 @@ Developed a 2D platformer game inspired by Super Mario using the Godot Engine, f
 
 
 ## Technical 
-* **Languages:** Python (Algorithmic Problem Solving), GDScript, C++, C.
-* **Creative Tools:** Figma (Interactive Prototyping), Framer, TouchDesigner.
+* **Languages:** Python (Algorithmic Problem Solving), GDScript, C++, C, Java.
+* **Web-Frameworks & Databases:** React, Node.js, Streamlit, FastAPI, OpenCV, MediaPipe, Arduino, Godot Engine,SQL, BeautifulSoup.
+* **Creative Tools:** Figma (Interactive Prototyping), Framer, Canva.
 
 ## Creative Direction
 Outside of core development, I maintain a strong focus on **Digital Art** and **UI/UX Design**. I believe that the best technical solutions aren't just functional they are aesthetically compelling and human centric.
