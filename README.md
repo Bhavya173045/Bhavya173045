@@ -23,3 +23,4 @@ Outside of core development, I maintain a strong focus on **Digital Art** and **
 I'm still creating and learning new idealogies and always keen to explore more.
 
 📫 **Connect with me:** bhavyanayak685@gmail.com
+📫 **Connect with me:** www.linkedin.com/in/bhavya-nayak-55600732a
